@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.asm": "asm",
+        "iostream": "cpp",
+        "regex": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp"
+    }
+}

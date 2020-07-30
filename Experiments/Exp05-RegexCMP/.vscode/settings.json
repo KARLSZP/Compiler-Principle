@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.asm": "asm",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "string_view": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}

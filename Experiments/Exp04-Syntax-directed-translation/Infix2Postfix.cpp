@@ -97,7 +97,7 @@ int main()
     while (cin >> infix && infix != "#") {
         Parser parser(infix);
         parser.expr();
-        // cout << parser.getPostfix() << endl;
+        cout << parser.getPostfix() << endl;
         cout << parser.getResult() << endl;
     }
     return 0;
